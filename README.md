@@ -214,7 +214,7 @@ Experiments with local AI models, voice cloning and developer automation.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hunggioi&theme=tokyo-night&hide_border=true&area=true&custom_title=Giới's%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hunggioi&theme=tokyo-night&hide_border=true&area=true&custom_title=GioiLee's%20Contribution%20Graph" width="100%" alt="Contribution Graph" />
 
 </div>
 
