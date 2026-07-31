@@ -117,7 +117,7 @@ An ASO platform designed to help indie developers improve organic app installs.
 
 **Tech**
 
-`Flutter` `SaaS` `AI` `ASO` `Firebase`
+`Notejs` `Reactjs` `SaaS` `ASO` `Supabase` `Firebase`
 
 </td>
 
